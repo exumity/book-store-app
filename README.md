@@ -1,6 +1,8 @@
 ## Description
 
-Manage your stores and books.
+Manage your stores and books. 
+
+```Swagger Documentation: /api```
 
 User Types:
 - User
